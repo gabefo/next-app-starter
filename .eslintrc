@@ -18,6 +18,9 @@
           "object",
           "type"
         ],
+        "alphabetize": {
+          "order": "asc"
+        },
         "newlines-between": "never",
         "pathGroups": [
           {
